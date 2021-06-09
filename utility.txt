@@ -1,1 +1,1 @@
-Tis is tracking first version of git1.txt
+Tis is tracking second version of git1.txt
